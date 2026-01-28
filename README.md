@@ -1,1 +1,1 @@
-# projet-algorithmique
+# ProjetAlgorithmique2Groupe7
